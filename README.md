@@ -1,0 +1,3 @@
+<h2> Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+
+Desenvolvendo  uma API REST para o gerenciamento de estoques de cerveja, juntamente com os testes unitários para validar o sistema, utilizando os conceitos do JUnit e Mockito... 
